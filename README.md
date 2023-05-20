@@ -38,6 +38,7 @@ How to obtain the value 2017 in decimal systems (base 10)?
 ```
 
 Alright lets work our way there:
+
 Baiklah, mari kita kerjakan langkah-langkahnya:
 
 First step: draw this, its the same for every question
