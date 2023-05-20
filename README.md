@@ -52,12 +52,12 @@ example:
 Next, we put the value the question gave us in the 2nd row, which is 2017 in our case.
 Selanjutnya, kita letakkan nilai yang diberikan oleh pertanyaan pada baris kedua, yang dalam kasus ini adalah 2017.
 
-![2nd step](https://raw.githubusercontent.com/chiayunhau/ask/main/Pasted%20image%20230520114359.png)
+![2nd step](https://raw.githubusercontent.com/chiayunhau/ask/main/Pasted%20image%2020230520114359.png)
 
 after that, we make the 1st row number times the 2nd row number, heres what i mean:  
 Setelah itu, kita perkalian antara angka pada baris pertama dengan angka pada baris kedua, ini yang saya maksud:
 
-![3rd step](https://raw.githubusercontent.com/chiayunhau/ask/main/Pasted%20image%20230520114412.png)
+![3rd step](https://raw.githubusercontent.com/chiayunhau/ask/main/Pasted%20image%2020230520114412.png)
 
 *1000 comes by 10^3 which means 10x10x10 which is 1000 , same with others.
 *1000 berasal dari 10^3 yang berarti 10x10x10 yang sama dengan 1000, begitu juga dengan yang lain.
